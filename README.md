@@ -20,18 +20,18 @@ I'm a technician in Analysis and Development of Systems by Unicep and a Technici
 ◽ 🇬🇧 **English** (Advanced)  <br>
 ◽ 🇯🇵 **日本語** (Novice)      <br>
 
-## Skills
+## Experience with
 
-### Programming Languages & Technologies
+#### Programming Languages & Technologies
 HTML5 • CSS3 • JavaScript • Java • Python • C# • SQLite • Oracle DB • JSON • Markdown
 
-### Frameworks & Tools
-Spring Boot • Flask • PowerShell • Bash • Git • GitHub
+##### Tools
+Spring Boot • Flask • PowerShell • Bash • Git • GitHub • SleuthKit
 
-### Operating Systems
-Windows • Ubuntu • Linux
+##### Operating Systems
+Windows • Linux
 
-### Additional Tools & Libraries
-PyQt • NumPy
+##### Additional Tools & Libraries & Frameworks
+PyQt • NumPy • React • TailWind • Bootstrap
 
 
