@@ -16,22 +16,39 @@ I'm a technician in Analysis and Development of Systems by Unicep and a Technici
 ◽ **06/2025 – Present**: Apprentice at **Tecumseh Brazil**
 
 ## Languages
-◽ 🇵🇹 **Portuguese** (Native) <br>
-◽ 🇬🇧 **English** (Advanced)  <br>
-◽ 🇯🇵 **日本語** (Novice)      <br>
+- 🇵🇹 **Portuguese** (Native)
+- 🇬🇧 **English** (Advanced)
+- 🇯🇵 **日本語** (Novice)
 
-## Experience with
+## Technical Skills
 
-#### Programming Languages & Technologies
-HTML5 • CSS3 • JavaScript • Java • Python • C# • SQLite • Oracle DB • JSON • Markdown
+### Programming Languages
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Python
+- C#
+- SQL (SQLite, Oracle DB)
+- JSON
+- XML
+- JWT
 
-##### Tools
-Spring Boot • Flask • PowerShell • Bash • Git • GitHub • SleuthKit
+### Technologies & Frameworks
+- **Web Development**: React, Tailwind, Bootstrap
+- **Backend**: Spring Boot, Flask
+- **Scripting**: PowerShell, Bash
+- **Libraries**: PyQt, NumPy
+- **Version Control**: Git, GitHub
 
-##### Operating Systems
-Windows • Linux
+### Operating Systems
+- Windows
+- Linux
 
-##### Additional Tools & Libraries & Frameworks
-PyQt • NumPy • React • TailWind • Bootstrap
+## Tools & Additional Technologies
+- **Networking & Security**: Wireshark, SleuthKit (TSK)
+- **Development & Debugging**: VSCode
+- **Data & Analysis**: Excel
+- **File Management**: Cookies, OS Module
 
 
