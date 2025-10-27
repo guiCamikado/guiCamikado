@@ -22,7 +22,7 @@ I'm a technician in Analysis and Development of Systems by Unicep and a Technici
 
 ## Technical Skills
 
-### Programming Languages
+### Programming Languages Experience
 - HTML5
 - CSS3
 - JavaScript
@@ -30,12 +30,9 @@ I'm a technician in Analysis and Development of Systems by Unicep and a Technici
 - Python
 - C#
 - SQL (SQLite, Oracle DB)
-- JSON
-- XML
-- JWT
 
 ### Technologies & Frameworks
-- **Web Development**: React, Tailwind, Bootstrap
+- **Web Development**: React, Tailwind, Bootstrap, JWT, JSON, XML
 - **Backend**: Spring Boot, Flask
 - **Scripting**: PowerShell, Bash
 - **Libraries**: PyQt, NumPy
