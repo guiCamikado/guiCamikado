@@ -1,7 +1,7 @@
 ## Guilherme Andrade Camikado! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="35" height="35">
-<a href="https://github.com/<<seuGitUser>>">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<<guiCamikado>>&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<<guiCamikado>>&layout=compact&theme=dracula"/>
+<a href="https://github.com/guiCamikado">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiCamikado&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiCamikado&layout=compact&theme=dracula"/>
 </a>
 
 <p align="left">
