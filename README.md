@@ -1,51 +1,91 @@
-# Guilherme Profile <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="35" height="35">
-◽Brazil, SP <br>
-◽ 24/02/2002 📅<br>
-◽ He/Him 
+## Guilherme Andrade Camikado! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="35" height="35">
+<a href="https://github.com/<<seuGitUser>>">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<<guiCamikado>>&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<<guiCamikado>>&layout=compact&theme=dracula"/>
+</a>
+
+<p align="left">
+📍 São Paulo – Brasil
+🎂 24/02/2002
+👤 He/Him</b>
+</p>
 
 ---
 
-## Resume
-I'm a technician in Analysis and Development of Systems by Unicep and a Technician by Senai. I've been a programmer since 2022, with my first job at **Tecumseh** in 2024. There, I worked as a full-stack novice, mostly with **ASP Classic**, **OracleDB**, **JavaScript**, and classic front-end **HTML** and **CSS**.
+## 👨‍💻 Sobre Mim
+Sou Técnico em **Análise e Desenvolvimento de Sistemas pela Unicep**, e **Técnico em Desenvolvimento de Sistemas pelo SENAI**.  
+Atuo como desenvolvedor desde **2022**, com experiência profissional adquirida na **Tecumseh Brasil (2024)** como **Full-Stack**, trabalhando principalmente com:
 
-## Graduation
-◽ 🎓 **University of Analysis and Development of Systems by Unicep** (2025) <br>
-◽ 🎓 **Technician at ADS by SENAI** (2025)
+🟡 ASP Classic | 🟡 OracleDB | 🟡 JavaScript  
+🔹 HTML | 🔹 CSS | 🔹 Integrações e manutenção de sistemas internos  
 
-## Experience
-◽ **06/2025 – Present**: Apprentice at **Tecumseh Brazil**
+---
 
-## Languages
-- 🇵🇹 **Portuguese** (Native)
-- 🇬🇧 **English** (Advanced)
-- 🇯🇵 **日本語** (Novice)
+## 🎓 Formação
+- 🎓 **ADS – UNICEP** (2025)  
+- 🎓 **Técnico em ADS – SENAI** (2025)
 
-## Technical Skills
+---
 
-### Programming Languages Experience
-- HTML5
-- CSS3
-- JavaScript
-- Java
-- Python
-- C#
-- SQL (SQLite, Oracle DB)
+## 💼 Experiência
+- **06/2025 – Atual** — Aprendiz de TI/Dev na **Tecumseh Brasil**
 
-### Technologies & Frameworks
-- **Web Development**: React, Tailwind, Bootstrap, JWT, JSON, XML
-- **Backend**: Spring Boot, Flask
-- **Scripting**: PowerShell, Bash
-- **Libraries**: PyQt, NumPy
-- **Version Control**: Git, GitHub
+---
 
-### Operating Systems
-- Windows
-- Linux
+## 🗣 Idiomas
+| Idioma | Nível |
+|---|---|
+| 🇵🇹 Português | Nativo |
+| 🇬🇧 Inglês | Avançado |
+| 🇯🇵 Japonês | Básico |
 
-## Tools & Additional Technologies
-- **Networking & Security**: Wireshark, SleuthKit (TSK)
-- **Development & Debugging**: VSCode
-- **Data & Analysis**: Excel
-- **File Management**: Cookies, OS Module
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### Linguagens
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cs" />
+</p>
+
+### Backend & Frameworks
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,flask" />
+</p>
+
+### Frontend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
+
+### Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=oracle,sqlite" />
+</p>
+
+### Scripting & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=powershell,bash,git,github,vscode" />
+</p>
+
+---
+
+## 🧠 Outras Competências
+🔹 JWT | JSON | XML  
+🔹 NumPy | PyQt  
+🔹 Excel para análise  
+🔹 Wireshark | SleuthKit (TSK)  
+🔹 Windows & Linux  
+
+---
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<<seuLinkedIn>>)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<<seuEmail>>)
+
+---
+
+⭐ Obrigado por visitar meu perfil! Se curtir, deixe um star em algum projeto! 😄
+
 
 
