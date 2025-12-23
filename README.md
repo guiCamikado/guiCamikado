@@ -24,7 +24,7 @@ Atuo como desenvolvedor desde **2022**, com experiência profissional adquirida 
 ---
 
 ## 💼 Experiência
-- **06/2025 – Atual** — Aprendiz de TI/Dev na **Tecumseh Brasil**
+- **06/2024 – 12/2025 — Aprendiz de TI/Dev na **Tecumseh Brasil**
 
 ---
 
