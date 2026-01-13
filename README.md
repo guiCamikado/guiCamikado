@@ -1,6 +1,6 @@
 <p align="center">
     <!-- Trocar por imagem no topo -->
-  <img src="src/images/Top.gif" alt="Hello!" /> 
+  <img src="src/images/Top.gif" alt="Hello Start!" /> 
 </p>
 
 <p align="center">
@@ -11,12 +11,12 @@ ___
 
 <p align="center">
     <!-- Trocar por imagem no topo -->
-  <img src="src/images/CenterHello.gif" alt="Hello!" /> 
+  <img src="src/images/CenterHello.gif" alt="Hello Text!" /> 
 </p>
 
 ___
 
-## ID
+<h3>About 一</h3>
 <p>
   <b>name:</b> Guilherme Andrade Camikado<br>
   <b>alias:</b> <i>The_Camikado</i><br>
@@ -26,23 +26,20 @@ ___
   <b>timezone:</b> UTC-3
 </p>
 
-##### About
-So like... I beggan playing videogames, got addicted into solving issues some I created mostly I did not, ended up wanting to create something to this electron-rearranging machine started by learning how to make videogames learned english by playing VrChat and destiny put me into doing websites entered a university, late an technical school and ended up finding an job where i was tasked into doing almost everything.
+<h3>About 二</h3>
+So like... I beggan playing videogames, got addicted into solving issues some I created mostly I did not, ended up wanting to create something to this electron-rearranging machine started by learning how to make videogames learned, blender, C# and english by playing VrChat and destiny put me into doing websites entered a university, late an technical school and ended up finding an job where i was tasked into doing almost everything.
 
-Now I think I'ma Sys. Developer Mainly an web developer.
-
-
+Now I think I'ma Sys. Developer Mainly an web one.
 
 
-##### Links:
+
+
+#### Links:
 - [My Website](https://guicamikado.github.io/MyWebsite/?page=skills)
 - [LinkedIn](https://www.linkedin.com/in/guiacamikado/)
 - [E-mail](guilherme.camikado@gmail.com)
 
-### Languages
-___
-
-##### Main Skills
+<h3>Skills</h3>
 <p align="left">
   <img src="src/images/HTML.svg" height="40" />
   <img src="src/images/CSS.svg" height="40" />
@@ -76,6 +73,5 @@ ___
 <br clear="both">
 
 <p align="center">
-    <!-- Trocar por imagem no topo -->
-  <img src="src/images/Bottom.gif" alt="Hello!" /> 
+  <img src="src/images/Bottom.gif" alt="Bye!" /> 
 </p>
