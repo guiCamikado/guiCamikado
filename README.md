@@ -18,10 +18,13 @@ ___
 
 ## ID
 <b>name:</b> Guilherme Andrade Camikado
+
 Last Know Alias: <i>The_Camikado</i>
 
 <b>spawn Date:</b> 24/01/2002
+
 <b>spawn Location:</b> Brazil - São Carlos, SP
+
 <b>default timezone:</b> UTC-3
 
 
