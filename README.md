@@ -44,8 +44,7 @@ Now I think I'ma Sys. Developer Mainly an web developer.
 ### Languages
 ___
 
-##### Main Languages
-###### (Ignore the impostor)
+##### Main Skills
 <p align="left">
   <img src="src/images/HTML.svg" height="40" />
   <img src="src/images/CSS.svg" height="40" />
@@ -54,26 +53,17 @@ ___
   <img src="src/images/JavaScript.svg" height="40" />
   <img src="src/images/Java-Dark.svg" height="40" />
   <img src="src/images/CS.svg" height="40" />
-</p>
-
-##### Back-end Tools
-<p align="left">
+  ⌇
   <img src="src/images/DotNet.svg" height="40" />
   <img src="src/images/Spring-Dark.svg" height="40" />
   <img src="src/images/Flask-Dark.svg" height="40" />
   <img src="src/images/NodeJS-Dark.svg" height="40" />
-</p>
-
-##### Front-end Tools
-<p align="left">
+  ⌇
   <img src="src/images/Vite-Dark.svg" height="40" />
   <img src="src/images/React-Dark.svg" height="40" />
   <img src="src/images/Bootstrap.svg" height="40" />
   <img src="src/images/TailwindCSS-Dark.svg" height="40" />
-</p>
-
-##### Others
-<p align="left">
+  ⌇
   <img src="src/images/Git.svg" height="40" />
   <img src="src/images/Github-Dark.svg" height="40" />
   <img src="src/images/Bash-Dark.svg" height="40" />
@@ -83,6 +73,7 @@ ___
   <img src="src/images/Blender-Dark.svg" height="40" />
   <img src="src/images/Unity-Dark.svg" height="40" />
   <img src="src/images/Markdown-Dark.svg" height="40" />
+
 </p>
 <br clear="both">
 
