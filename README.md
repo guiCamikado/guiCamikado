@@ -1,87 +1,90 @@
-## Guilherme Andrade Camikado! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="35" height="35">
-
-<p align="left">
-📍 São Paulo – Brasil
-🎂 24/02/2002
-👤 He/Him</b>
+<p align="center">
+    <!-- Trocar por imagem no topo -->
+  <img src="src/images/Top.gif" alt="Hello!" /> 
 </p>
 
----
-
-## 👨‍💻 Sobre Mim
-Sou Técnico em **Análise e Desenvolvimento de Sistemas pela Unicep**, e **Técnico em Desenvolvimento de Sistemas pelo SENAI**.  
-Atuo como desenvolvedor desde **2022**, com experiência profissional adquirida na **Tecumseh Brasil (2024)** como **Full-Stack**, trabalhando principalmente com:
-
-🟡 ASP Classic | 🟡 OracleDB | 🟡 JavaScript  
-🔹 HTML | 🔹 CSS | 🔹 Integrações e manutenção de sistemas internos  
-
----
-
-## 🎓 Formação
-- 🎓 **ADS – UNICEP** (2025)  
-- 🎓 **Técnico em ADS – SENAI** (2025)
-
----
-
-## 💼 Experiência
-- **06/2024 – 12/2025 — Aprendiz de TI/Dev na **Tecumseh Brasil**
-
----
-
-## 🗣 Idiomas
-| Idioma | Nível |
-|---|---|
-| 🇵🇹 Português | Nativo |
-| 🇬🇧 Inglês | Avançado |
-| 🇯🇵 Japonês | Básico |
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-### Linguagens
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cs" />
+<p align="center">
+______ ฅ^>⩊<^ ฅ ______
 </p>
 
-### Backend & Frameworks
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,flask" />
+___
+
+<p align="center">
+    <!-- Trocar por imagem no topo -->
+  <img src="src/images/CenterHello.gif" alt="Hello!" /> 
 </p>
 
-### Frontend
+___
+
+## ID
+<b>name:</b> Guilherme Andrade Camikado
+Last Know Alias: <i>The_Camikado</i>
+
+<b>spawn Date:</b> 24/01/2002
+<b>spawn Location:</b> Brazil - São Carlos, SP
+<b>default timezone:</b> UTC-3
+
+<p> </p>
+
+##### About
+So like... I beggan playing videogames, got addicted into solving issues some I created mostly I did not, ended up wanting to create something to this electron-rearranging machine started by learning how to make videogames learned english by playing VrChat and destiny put me into doing websites entered a university, late an technical school and ended up finding an job where i was tasked into doing almost everything.
+
+Now I think I'ma Sys. Developer Mainly an web developer.
+
+
+
+
+##### Links:
+- [My Website](https://guicamikado.github.io/MyWebsite/?page=skills)
+- [LinkedIn](https://www.linkedin.com/in/guiacamikado/)
+- [E-mail](guilherme.camikado@gmail.com)
+
+### Languages
+___
+
+##### Main Languages
+###### (Ignore the impostor)
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+  <img src="src/images/HTML.svg" height="40" />
+  <img src="src/images/CSS.svg" height="40" />
+  ⌇
+  <img src="src/images/Python-Dark.svg" height="40" />
+  <img src="src/images/JavaScript.svg" height="40" />
+  <img src="src/images/Java-Dark.svg" height="40" />
+  <img src="src/images/CS.svg" height="40" />
 </p>
 
-### Databases
+##### Back-end Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=oracle,sqlite" />
+  <img src="src/images/DotNet.svg" height="40" />
+  <img src="src/images/Spring-Dark.svg" height="40" />
+  <img src="src/images/Flask-Dark.svg" height="40" />
+  <img src="src/images/NodeJS-Dark.svg" height="40" />
 </p>
 
-### Scripting & Tools
+##### Front-end Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=powershell,bash,git,github,vscode" />
+  <img src="src/images/Vite-Dark.svg" height="40" />
+  <img src="src/images/React-Dark.svg" height="40" />
+  <img src="src/images/Bootstrap.svg" height="40" />
+  <img src="src/images/TailwindCSS-Dark.svg" height="40" />
 </p>
 
----
+##### Others
+<p align="left">
+  <img src="src/images/Git.svg" height="40" />
+  <img src="src/images/Github-Dark.svg" height="40" />
+  <img src="src/images/Bash-Dark.svg" height="40" />
+  <img src="src/images/VSCode-Dark.svg" height="40" />
+  <img src="src/images/Windows-Dark.svg" height="40" />
+  <img src="src/images/SQLite.svg" height="40" />
+  <img src="src/images/Blender-Dark.svg" height="40" />
+  <img src="src/images/Unity-Dark.svg" height="40" />
+  <img src="src/images/Markdown-Dark.svg" height="40" />
+</p>
+<br clear="both">
 
-## 🧠 Outras Competências
-🔹 JWT | JSON | XML  
-🔹 NumPy | PyQt  
-🔹 Excel para análise  
-🔹 Wireshark | SleuthKit (TSK)  
-🔹 Windows & Linux  
-
----
-
-### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiCamikado/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.camikado@gmail.com)
-
----
-
-⭐ Obrigado por visitar meu perfil! Se curtir, deixe um star em algum projeto! 😄
-
-
-
+<p align="center">
+    <!-- Trocar por imagem no topo -->
+  <img src="src/images/Bottom.gif" alt="Hello!" /> 
+</p>
