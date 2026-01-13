@@ -24,6 +24,8 @@ Last Know Alias: <i>The_Camikado</i>
 <b>spawn Location:</b> Brazil - São Carlos, SP
 <b>default timezone:</b> UTC-3
 
+
+
 <p> </p>
 
 ##### About
