@@ -17,13 +17,14 @@ ___
 ___
 
 ## ID
-<b>name:</b> Guilherme Andrade Camikado
-<b>alias:</b> <i>The_Camikado</i><br>
-<b>spawn date:</b> 24/01/2002
-<b>spawn location:</b> Brazil - São Carlos, SP
-<b>timezone:</b> UTC-3
-
-<p> </p>
+<p>
+  <b>name:</b> Guilherme Andrade Camikado<br>
+  <b>alias:</b> <i>The_Camikado</i><br>
+  <br>
+  <b>spawn date:</b> 24/01/2002<br>
+  <b>spawn location:</b> Brazil - São Carlos, SP<br>
+  <b>timezone:</b> UTC-3
+</p>
 
 ##### About
 So like... I beggan playing videogames, got addicted into solving issues some I created mostly I did not, ended up wanting to create something to this electron-rearranging machine started by learning how to make videogames learned english by playing VrChat and destiny put me into doing websites entered a university, late an technical school and ended up finding an job where i was tasked into doing almost everything.
