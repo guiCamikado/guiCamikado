@@ -43,27 +43,27 @@ Now I think I'ma Sys. Developer Mainly an web one.
 <p align="left">
   <img src="src/images/HTML.svg" height="40" />
   <img src="src/images/CSS.svg" height="40" />
-  ⌇
+  <br>
   <img src="src/images/Python-Dark.svg" height="40" />
   <img src="src/images/JavaScript.svg" height="40" />
   <img src="src/images/Java-Dark.svg" height="40" />
   <img src="src/images/CS.svg" height="40" />
-  ⌇
+  <br>
   <img src="src/images/DotNet.svg" height="40" />
   <img src="src/images/Spring-Dark.svg" height="40" />
   <img src="src/images/Flask-Dark.svg" height="40" />
   <img src="src/images/NodeJS-Dark.svg" height="40" />
-  ⌇
+  <br>
   <img src="src/images/Vite-Dark.svg" height="40" />
   <img src="src/images/React-Dark.svg" height="40" />
   <img src="src/images/Bootstrap.svg" height="40" />
   <img src="src/images/TailwindCSS-Dark.svg" height="40" />
-  ⌇
+  <br>
   <img src="src/images/Git.svg" height="40" />
   <img src="src/images/Github-Dark.svg" height="40" />
   <img src="src/images/Bash-Dark.svg" height="40" />
   <img src="src/images/VSCode-Dark.svg" height="40" />
-  <img src="src/images/Windows-Dark.svg" height="40" />
+    <br>
   <img src="src/images/SQLite.svg" height="40" />
   <img src="src/images/Blender-Dark.svg" height="40" />
   <img src="src/images/Unity-Dark.svg" height="40" />
