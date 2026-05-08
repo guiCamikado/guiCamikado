@@ -1,5 +1,4 @@
 <!-- <p align="center">-->
-    <!-- Trocar por imagem no topo -->
   <!--<img src="src/images/Top.gif" alt="Hello Start!" /> -->
 <!--</p>-->
 
