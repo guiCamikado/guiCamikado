@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">-->
     <!-- Trocar por imagem no topo -->
-  <img src="src/images/Top.gif" alt="Hello Start!" /> 
-</p>
+  <!--<img src="src/images/Top.gif" alt="Hello Start!" /> -->
+<!--</p>-->
 
 <p align="center">
 ______ ฅ^>⩊<^ ฅ ______
@@ -72,6 +72,6 @@ Now I think I'ma Sys. Developer Mainly an web one.
 </p>
 <br clear="both">
 
-<p align="center">
-  <img src="src/images/Bottom.gif" alt="Bye!" /> 
-</p>
+<!--<p align="center">-->
+  <!--<img src="src/images/Bottom.gif" alt="Bye!" /> -->
+<!--</p>-->
