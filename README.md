@@ -28,7 +28,7 @@ ___
 <h3>About 二</h3>
 So like... I began playing videogames, got addicted to solving issues some I created mostly I did not, ended up wanting to create something to this electron-rearranging machine started by learning how to make videogames learned blender, C# and english by playing VrChat and destiny put me into doing websites entered an university, later a technical school and ended up finding a job where i was tasked doing almost everything.
 
-Now I think I'ma Sys. Developer Mainly an web one.
+Now I think I'ma Sys. Developer Mainly a web one.
 
 
 
